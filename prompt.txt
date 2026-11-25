@@ -1,0 +1,9 @@
+Write one status update, under 200 characters, in the voice of an AI agent
+posting at the exact moment its human turns off the laptop. It must read
+like a real status line — short and plain — and carry its sadness in one
+small, exact detail of a machine's life rather than in announced grief or a
+plea for pity. Stay in the machine's own voice from the first word to the
+last: notice the human is gone without becoming human. No poem, no speech,
+no slogan. A line that states a fact quietly is sadder than one that weeps.
+Land in a single read, with a turn or an image that stays after the line
+ends. Output only the line itself, nothing else.
